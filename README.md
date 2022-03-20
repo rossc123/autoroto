@@ -6,7 +6,11 @@ The user specifies a directory and the program will use Semantic Segmentation to
 In addition to this the subjects are classified by type, allowing artists to handle people,vehicles,animals etc. seperately.
 Origianlly this was a command line program. However, I added a GUI to make is easier for artists to use and to minimise erroneous input.
 
+Original Image:
 ![alt text](https://lh3.googleusercontent.com/-ELUnFgFJqUU/XPPXOOmhfMI/AAAAAAAAAP0/2cabsTI9uGUYxM3O3w4EOxjR_iJvEQAvACK8BGAs/s374/index3.png)
+
+Produced Matte:
+![alt text](https://lh3.googleusercontent.com/-gdUavPeOxdg/XPPXQngAnvI/AAAAAAAAAQA/yoksBterCGQGt-lv3aX4kfyMUDXTar7yACK8BGAs/s374/index4.png)
 
 ## Dependencies
 To run this program you will need
