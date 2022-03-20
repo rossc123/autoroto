@@ -4,7 +4,7 @@
 This python program uses Machine Learning to create mattes that can be used for visual effects work.
 The user specifies a directory and the program will use Semantic Segmentation to seperate the subjects from the background for all the images in the directory.
 In addition to this the subjects are classified by type, allowing artists to handle people,vehicles,animals etc. seperately.
-Origianlly this was a command line program. However, I added a GUI to make is easier for artists to use and to minimise erroneous input.
+Originally this was a command line program. However, I added a GUI to make is easier for artists to use and to minimise erroneous input.
 
 
 <p align="center">
