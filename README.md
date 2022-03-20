@@ -9,17 +9,17 @@ Origianlly this was a command line program. However, I added a GUI to make is ea
 
 <p align="center">
   <img src="https://lh3.googleusercontent.com/-ELUnFgFJqUU/XPPXOOmhfMI/AAAAAAAAAP0/2cabsTI9uGUYxM3O3w4EOxjR_iJvEQAvACK8BGAs/s374/index3.png" width="350" title="Original Image">
-  <img src="https://lh3.googleusercontent.com/-gdUavPeOxdg/XPPXQngAnvI/AAAAAAAAAQA/yoksBterCGQGt-lv3aX4kfyMUDXTar7yACK8BGAs/s374/index4.png" width="350" title="Matte Prodeuced">
+  <img src="https://lh3.googleusercontent.com/-gdUavPeOxdg/XPPXQngAnvI/AAAAAAAAAQA/yoksBterCGQGt-lv3aX4kfyMUDXTar7yACK8BGAs/s374/index4.png" width="350" title="Matte Produced">
 </p>
 
 
 ## Dependencies
 To run this program you will need
-*pyTorch
-*Tkinter
-*NumPy
+* pyTorch
+* Tkinter
+* NumPy
 
 ## Inspiration
-This project was inspired by:
+This project was inspired by: \n
 LearnOpenCV: https://learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/ 
 Moviola: https://youtu.be/rTH5lMPp4Qw 
