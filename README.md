@@ -21,5 +21,5 @@ To run this program you will need
 
 ## Inspiration
 This project was inspired by: <br>
-LearnOpenCV: https://learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/ 
+LearnOpenCV: https://learnopencv.com/pytorch-for-beginners-semantic-segmentation-using-torchvision/ <br>
 Moviola: https://youtu.be/rTH5lMPp4Qw 
